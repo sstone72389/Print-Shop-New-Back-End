@@ -1,16 +1,16 @@
 Print Shop Back End
 
 **Link to deployed app:**
-(https://squadorange.github.io/PrintShopClient/)
+(https://sstone72389.github.io/Print-Shop-New/)
 
 **Link to deployed back-end:**
-(https://secure-chamber-31638.herokuapp.com/
+(https://immense-savannah-73661.herokuapp.com/)
 
 **Link to front-end repo:**
-(https://github.com/SquadOrange/PrintShopClient)
+(https://github.com/sstone72389/Print-Shop-New)
 
 **Link to back-end repo:**
-(https://github.com/SquadOrange/printshopbackend)
+(https://github.com/sstone72389/Print-Shop-New-Back-End)
 
 By Maggie, Catherine, and Spencer!
 
